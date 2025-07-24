@@ -17,7 +17,7 @@ Siber güvenlik dünyasına tutkuyla bağlıyım ve kariyerimi bu alanda, özell
 
 ### 🔭 İlgilendiğim Alanlar ve Yeteneklerim
 
-Savunma odaklı bir bakış açısıyla aşağıdaki alanlarda bilgi ve deneyim sahibiyim:
+Saldırı ve savunma odaklı bir bakış açısıyla aşağıdaki alanlarda bilgi ve deneyim sahibiyim:
 
 * **🛡️ Siber Güvenlik Temelleri:**
     * **Ağ Temelleri ve Güvenliği:** TCP/IP, Firewall, IDS/IPS, VPN ve ağ trafiği analizi gibi konularda temel bilgiye sahibim.
@@ -43,7 +43,7 @@ Savunma odaklı bir bakış açısıyla aşağıdaki alanlarda bilgi ve deneyim 
 Güvenlik Açığı Takip Sistemi Simülatörüdür (VulnTrack). Projenin temel amacı, bir yazılım
 ürünündeki veya sistemdeki güvenlik açıklarının (zafiyetlerin) keşfedildiği andan kapatıldığı
 ana kadar olan tüm yaşam döngüsünü düzenli bir şekilde yönetmektir.
-* *Kullanılan Teknolojiler:* PHP, Laravel, MySQL,
+* *Kullanılan Teknolojiler:* PHP, Laravel, MySQL
 * *Öne Çıkan Özellikler:*  
     *  Güvenlik açıklarının (zafiyetlerin) detaylı bir şekilde kaydedilmesi ve yönetilmesi,,
     * Sistemi kullanacak kullanıcıların (geliştiriciler, analistler, yöneticiler) tanımlanması,
@@ -93,7 +93,7 @@ I am passionate about the world of cybersecurity and aim to build my career in t
 
 ### 🔭 My Interests and Skills
 
-With a defense-oriented perspective, I have knowledge and experience in the following areas:
+With a perspective focused on both offensive and defensive cybersecurity, I have knowledge and experience in the following areas:
 
 * **🛡️ Cybersecurity Fundamentals:**
     * **Network Fundamentals and Security:** I have a foundational understanding of concepts like TCP/IP, Firewalls, IDS/IPS, VPNs, and network traffic analysis.
