@@ -1,5 +1,5 @@
 ### TR
-# 👋 Merhaba, ben Mehmet Emre!
+#  Merhaba, ben Mehmet Emre!
 
 <p align="center">
   <a href="https://www.bartin.edu.tr/bilgisayar-muhendisligi/" target="_blank">
@@ -15,28 +15,28 @@ Siber güvenlik dünyasına tutkuyla bağlıyım ve kariyerimi bu alanda, özell
 
 ---
 
-### 🔭 İlgilendiğim Alanlar ve Yeteneklerim
+###  İlgilendiğim Alanlar ve Yeteneklerim
 
 Saldırı ve savunma odaklı bir bakış açısıyla aşağıdaki alanlarda bilgi ve deneyim sahibiyim:
 
-* **🛡️ Siber Güvenlik Temelleri:**
+* ** Siber Güvenlik Temelleri:**
     * **Ağ Temelleri ve Güvenliği:** TCP/IP, Firewall, IDS/IPS, VPN ve ağ trafiği analizi gibi konularda temel bilgiye sahibim.
     * **Web Uygulama Güvenliği:** OWASP Top 10 zafiyetleri (XSS, SQL Injection vb.) ve bu zafiyetlere karşı alınacak önlemler konusunda bilgiliyim.
     * **Linux Temelleri ve Güvenliği:** Linux sistemlerde yetkilendirme, güvenlik duvarı yapılandırması ve log yönetimi gibi temel güvenlik prensiplerine hakimim.
     * **Tersine Mühendislik ve Zararlı Yazılım Analizi:** Zararlı yazılımların statik ve dinamik analizinin temellerini anlıyor ve assembly diline temel düzeyde aşinayım.
 
-* **💻 Yazılım Geliştirme:**
+* ** Yazılım Geliştirme:**
     * **PHP & Laravel:** Güçlü ve güvenli web uygulamaları geliştirmek için PHP ve Laravel çerçevesini etkin bir şekilde kullanıyorum. Özellikle MVC mimarisi ve ORM konularında deneyimliyim.
     * **Veritabanı:** MySQL, PostgreSQL
 
-* **🔧 Araçlar ve Teknolojiler:**
+* ** Araçlar ve Teknolojiler:**
     * Wireshark, Nmap, Metasploit (temel düzeyde), Burp Suite (temel düzeyde)
     * Git & GitHub
     * Docker (temel düzeyde)
 
 ---
 
-### 🚀 Projelerim
+###  Projelerim
 
 **VulnTrack**
 * *Kısa Açıklama:* Bu uygulama, bir yazılım geliştirme ekibi veya siber güvenlik birimi için tasarlanmış bir
@@ -66,16 +66,15 @@ hedeflenmektedir.
 
 ---
 
-### 📫 Bana Ulaşın
+###  Bana Ulaşın
 
-* **Website:** [mehmetemreok.com](https://mehmetemreok.com)
 * **LinkedIn:** [\[LinkedIn Mehmet Emre Ök\]](https://linkedin.com/in/mehmet-emre-%C3%B6k-a6433620a)
 * **E-posta:** mehmetemreok.contact@gmail.com
 
 ---
 
 ### EN
-# 👋 Hi, I'm Mehmet Emre!
+#  Hi, I'm Mehmet Emre!
 
 <p align="center">
   <a href="https://www.bartin.edu.tr/bilgisayar-muhendisligi/" target="_blank">
@@ -91,28 +90,28 @@ I am passionate about the world of cybersecurity and aim to build my career in t
 
 ---
 
-### 🔭 My Interests and Skills
+###  My Interests and Skills
 
 With a perspective focused on both offensive and defensive cybersecurity, I have knowledge and experience in the following areas:
 
-* **🛡️ Cybersecurity Fundamentals:**
+* ** Cybersecurity Fundamentals:**
     * **Network Fundamentals and Security:** I have a foundational understanding of concepts like TCP/IP, Firewalls, IDS/IPS, VPNs, and network traffic analysis.
     * **Web Application Security:** I am knowledgeable about the OWASP Top 10 vulnerabilities (e.g., XSS, SQL Injection) and the measures to mitigate them.
     * **Linux Fundamentals and Security:** I am proficient in basic security principles on Linux systems, including permissions, firewall configuration, and log management.
     * **Reverse Engineering and Malware Analysis:** I understand the fundamentals of static and dynamic analysis of malware and have a basic familiarity with assembly language.
 
-* **💻 Software Development:**
+* ** Software Development:**
     * **PHP & Laravel:** I effectively use PHP and the Laravel framework to develop robust and secure web applications. I have particular experience with the MVC architecture and ORM.
     * **Database:** MySQL, PostgreSQL
 
-* **🔧 Tools and Technologies:**
+* ** Tools and Technologies:**
     * Wireshark, Nmap, Metasploit (basic), Burp Suite (basic)
     * Git & GitHub
     * Docker (basic)
 
 ---
 
-### 🚀 My Projects
+###  My Projects
 
 **VulnTrack**
 * *Short Description:* This application is a Vulnerability Tracking System Simulator (VulnTrack) designed for a software development team or a cybersecurity unit. The main goal of the project is to systematically manage the entire lifecycle of security vulnerabilities in a software product or system, from discovery to resolution.
@@ -135,9 +134,8 @@ With a perspective focused on both offensive and defensive cybersecurity, I have
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 
-* **Website:** [mehmetemreok.com](https://mehmetemreok.com)
 * **LinkedIn:** [\[LinkedIn Mehmet Emre Ök\]](https://linkedin.com/in/mehmet-emre-%C3%B6k-a6433620a)
 * **E-mail:** mehmetemreok.contact@gmail.com
 
