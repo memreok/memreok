@@ -21,6 +21,8 @@ Temel odak noktam; modern web uygulamalarının nasıl geliştirildiğini, hangi
 
 Ayrıca private repolarımda Retrieval-Augmented Generation, LLM tabanlı sistemler ve eğitim amaçlı CTF challenge geliştirme üzerine çalışmalar yapıyorum.
 
+Takım çalışmasına, açık iletişime, analitik düşünmeye ve pratik problem çözmeye önem veriyorum. Özellikle güvenlik odaklı yazılım projelerinde iş birliği içinde çalışmayı önemsiyorum.
+
 ---
 
 ## İlgi Alanlarım

@@ -22,6 +22,8 @@ My main focus is understanding how modern web applications are built, how they f
 
 I also work on private projects related to Retrieval-Augmented Generation, LLM-based systems, and educational CTF challenge development.
 
+I value collaborative development, clear communication, analytical thinking, and practical problem solving, especially in security-focused software projects.
+
 ---
 
 ## Main Interests
