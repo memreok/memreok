@@ -1,142 +1,172 @@
-### TR
-#  Merhaba, ben Mehmet Emre!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mehmet%20Emre%20ÖK&fontAlign=50&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Web%20Security%20%7C%20Backend%20Development&descAlign=50&descAlignY=58" alt="Header Banner" />
+</p>
+
+
 
 <p align="center">
-  <a href="https://www.bartin.edu.tr/bilgisayar-muhendisligi/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/144742469?v=4" alt="Mehmet Emre Ök" width="150"/>
+  Computer Engineering student focused on Web Security, backend development, CTFs, and LLM-based applications.
+</p>
+
+<p align="center">
+  <a href="README_TR.md">Türkçe README</a>
+</p>
+
+---
+
+## About Me
+
+I am a Computer Engineering student at Bartın University, interested in web security, backend systems, CTF challenges, and LLM-powered applications.
+
+My main focus is understanding how modern web applications are built, how they fail, and how they can be made more secure. I work on backend projects, security-oriented tools, CTF labs, and practical software projects to improve both my development and security analysis skills.
+
+I also work on private projects related to Retrieval-Augmented Generation, LLM-based systems, and educational CTF challenge development.
+
+---
+
+## Main Interests
+
+- Web Application Security
+- Backend Development
+- CTF Solving and Challenge Development
+- Secure Software Development
+- Linux and Networking Fundamentals
+- Dockerized Application Development
+- LLMs and Retrieval-Augmented Generation
+- DevOps and CI/CD Fundamentals
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,php,java,javascript,c" alt="Programming Languages" />
+</p>
+
+### Backend and Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,nodejs,html,css" alt="Backend and Web Technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+</p>
+
+### Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,gcp,vscode" alt="Tools and Platforms" />
+</p>
+
+---
+
+## Featured Projects
+
+### ProjectOfDork
+
+A cloud-native Google Dork query generator built with Go, PostgreSQL, Docker, Kubernetes, Jenkins, and Google Cloud technologies.
+
+The application allows users to enter a target domain, generate Google Dork queries, check HTTP/HTTPS availability, and store query history. The project includes containerized deployment, Kubernetes manifests, persistent storage configuration, network policy usage, horizontal pod autoscaling, and CI/CD pipeline integration.
+
+**Tech Stack:** Go, HTML, PostgreSQL, Docker, Kubernetes, Jenkins, Google Kubernetes Engine, Google Artifact Registry
+
+[Repository](https://github.com/memreok/ProjectOfDork)
+
+---
+
+### GoLang TODO APP
+
+A full-stack TODO application built with a Go backend, frontend interface, PostgreSQL database, and Docker Compose-based local development environment.
+
+This project demonstrates REST API development, containerized service management, database integration, and basic frontend-backend communication.
+
+**Tech Stack:** Go, JavaScript, HTML, CSS, PostgreSQL, Docker Compose
+
+[Repository](https://github.com/memreok/GoLang-TODO-APP)
+
+---
+
+### WebScrapper-Go
+
+A Go-based web scraping project created to practice HTTP requests, parsing web content, and working with Go for automation-oriented tasks.
+
+**Tech Stack:** Go
+
+[Repository](https://github.com/memreok/WebScrapper-Go)
+
+---
+
+## Other Projects
+
+### VulnTrack
+
+A vulnerability tracking system simulator designed for software development and security teams.
+
+The project focuses on managing vulnerability records, severity levels, status tracking, user assignments, comments, and activity logs.
+
+**Tech Stack:** PHP, Laravel, MySQL
+
+[Repository](https://github.com/memreok/VulnTrack)
+
+---
+
+### The Password Game
+
+A web-based password awareness game inspired by rule-based password creation challenges.
+
+The goal of the project is to demonstrate password complexity concepts through an interactive scenario.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS
+
+[Repository](https://github.com/memreok/ThePasswordGame)
+
+---
+
+## CTF and Security Work
+
+I actively participate in CTF challenges and work on web security topics such as SQL injection, XXE, authentication issues, file upload vulnerabilities, redirect-based vulnerabilities, and common web application misconfigurations.
+
+I also develop educational CTF challenges to better understand vulnerability design, exploitation flow, and secure coding practices.
+
+---
+
+## Currently Learning
+
+- Advanced web application security
+- Backend architecture with Go
+- Docker and Kubernetes-based deployment
+- CI/CD pipelines
+- LLM-powered applications
+- Retrieval-Augmented Generation systems
+- Security-focused software design
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=memreok&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memreok&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/mehmet-emre-%C3%B6k-a6433620a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehmet%20Emre%20ÖK-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <br>
+  <a href="mailto:mehmetemreok.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mehmetemreok.contact%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<p align="center">
-  <i>Bartın Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim.</i>
-</p>
-
-Siber güvenlik dünyasına tutkuyla bağlıyım ve kariyerimi bu alanda, özellikle savunma stratejileri ve sistem güvenliği üzerine odaklanan **Blue Team**  alanında şekillendirmeyi hedefliyorum. Güçlü bir savunmanın, birçok saldırıyı engelleyebileceğine inanıyorum.
-
----
-
-###  İlgilendiğim Alanlar ve Yeteneklerim
-
-Saldırı ve savunma odaklı bir bakış açısıyla aşağıdaki alanlarda bilgi ve deneyim sahibiyim:
-
-* ** Siber Güvenlik Temelleri:**
-    * **Ağ Temelleri ve Güvenliği:** TCP/IP, Firewall, IDS/IPS, VPN ve ağ trafiği analizi gibi konularda temel bilgiye sahibim.
-    * **Web Uygulama Güvenliği:** OWASP Top 10 zafiyetleri (XSS, SQL Injection vb.) ve bu zafiyetlere karşı alınacak önlemler konusunda bilgiliyim.
-    * **Linux Temelleri ve Güvenliği:** Linux sistemlerde yetkilendirme, güvenlik duvarı yapılandırması ve log yönetimi gibi temel güvenlik prensiplerine hakimim.
-    * **Tersine Mühendislik ve Zararlı Yazılım Analizi:** Zararlı yazılımların statik ve dinamik analizinin temellerini anlıyor ve assembly diline temel düzeyde aşinayım.
-
-* ** Yazılım Geliştirme:**
-    * **PHP & Laravel:** Güçlü ve güvenli web uygulamaları geliştirmek için PHP ve Laravel çerçevesini etkin bir şekilde kullanıyorum. Özellikle MVC mimarisi ve ORM konularında deneyimliyim.
-    * **Veritabanı:** MySQL, PostgreSQL
-
-* ** Araçlar ve Teknolojiler:**
-    * Wireshark, Nmap, Metasploit (temel düzeyde), Burp Suite (temel düzeyde)
-    * Git & GitHub
-    * Docker (temel düzeyde)
-
----
-
-###  Projelerim
-
-**VulnTrack**
-* *Kısa Açıklama:* Bu uygulama, bir yazılım geliştirme ekibi veya siber güvenlik birimi için tasarlanmış bir
-Güvenlik Açığı Takip Sistemi Simülatörüdür (VulnTrack). Projenin temel amacı, bir yazılım
-ürünündeki veya sistemdeki güvenlik açıklarının (zafiyetlerin) keşfedildiği andan kapatıldığı
-ana kadar olan tüm yaşam döngüsünü düzenli bir şekilde yönetmektir.
-* *Kullanılan Teknolojiler:* PHP, Laravel, MySQL
-* *Öne Çıkan Özellikler:*  
-    *  Güvenlik açıklarının (zafiyetlerin) detaylı bir şekilde kaydedilmesi ve yönetilmesi,,
-    * Sistemi kullanacak kullanıcıların (geliştiriciler, analistler, yöneticiler) tanımlanması,
-    * Her zafiyetin önem derecesi, durumu ve türü gibi bilgilerin takip edilmesi,
-    * Zafiyetlerin çözüm için belirli kullanıcılara atanması (assign) ve takibinin yapılması,
-    * Zafiyetlerin türlerine (örn: XSS, SQL Injection) veya etkilendikleri teknolojilere (örn:
-PHP, Apache) göre Etiketler (Tags) ile sınıflandırılması,
-    * Her bir zafiyet kaydı altında ekip üyelerinin Yorumlar ekleyerek iş birliği yapması,
-    * Zafiyet üzerinde yapılan tüm önemli değişikliklerin (oluşturulma, durum değişikliği,
-yorum ekleme vb.) bir Aktivite Kaydı (Activity Log) ile izlenmesi
-hedeflenmektedir.
-
-* [ \[GitHub Linki\]](https://github.com/memreok/VulnTrack)
-
-**The Password Game**
-* *Kısa Açıklama:* Bu projenin temel amacı, kullanıcılara eğlenceli bir senaryo üzerinden güçlü ve karmaşık şifreler oluşturmanın önemini kavratmaktır. Geleneksel şifreleme yöntemlerinin yetersiz kalabildiği günümüzde, kullanıcıları yaratıcı ve zorlu şifreler oluşturmaya teşvik ederek çevrimiçi güvenlik bilincini artırmayı hedeflemektedir.
-* *Kullanılan Teknolojiler:* PHP, Mysql
-* *Öne Çıkan Özellikler:*  Oyundaki kuralları en kısa sürede tamamlayarak şifre oluşturmanız beklenmektedir. Kullanıcılara eğlenceli bir vakit sunmayı hedeflerken aynı zamanda şifre güvenliği bilinci katılmaya çalışılmıştır.
-* [\[GitHub Linki\]](https://github.com/memreok/ThePasswordGame)
-
----
-
-###  Bana Ulaşın
-
-* **LinkedIn:** [\[LinkedIn Mehmet Emre Ök\]](https://linkedin.com/in/mehmet-emre-%C3%B6k-a6433620a)
-* **E-posta:** mehmetemreok.contact@gmail.com
-
----
-
-### EN
-#  Hi, I'm Mehmet Emre!
-
-<p align="center">
-  <a href="https://www.bartin.edu.tr/bilgisayar-muhendisligi/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/144742469?v=4" alt="Mehmet Emre Ök" width="150"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>I am a 3rd-year Computer Engineering student at Bartın University.</i>
-</p>
-
-I am passionate about the world of cybersecurity and aim to build my career in this field, specifically focusing on defensive strategies and system security within the **Blue Team**. I believe that a strong defense can prevent many attacks.
-
----
-
-###  My Interests and Skills
-
-With a perspective focused on both offensive and defensive cybersecurity, I have knowledge and experience in the following areas:
-
-* ** Cybersecurity Fundamentals:**
-    * **Network Fundamentals and Security:** I have a foundational understanding of concepts like TCP/IP, Firewalls, IDS/IPS, VPNs, and network traffic analysis.
-    * **Web Application Security:** I am knowledgeable about the OWASP Top 10 vulnerabilities (e.g., XSS, SQL Injection) and the measures to mitigate them.
-    * **Linux Fundamentals and Security:** I am proficient in basic security principles on Linux systems, including permissions, firewall configuration, and log management.
-    * **Reverse Engineering and Malware Analysis:** I understand the fundamentals of static and dynamic analysis of malware and have a basic familiarity with assembly language.
-
-* ** Software Development:**
-    * **PHP & Laravel:** I effectively use PHP and the Laravel framework to develop robust and secure web applications. I have particular experience with the MVC architecture and ORM.
-    * **Database:** MySQL, PostgreSQL
-
-* ** Tools and Technologies:**
-    * Wireshark, Nmap, Metasploit (basic), Burp Suite (basic)
-    * Git & GitHub
-    * Docker (basic)
-
----
-
-###  My Projects
-
-**VulnTrack**
-* *Short Description:* This application is a Vulnerability Tracking System Simulator (VulnTrack) designed for a software development team or a cybersecurity unit. The main goal of the project is to systematically manage the entire lifecycle of security vulnerabilities in a software product or system, from discovery to resolution.
-* *Technologies Used:* PHP, Laravel, MySQL
-* *Key Features:*
-    * Detailed recording and management of security vulnerabilities.
-    * Definition of users for the system (developers, analysts, managers).
-    * Tracking of information for each vulnerability, such as severity level, status, and type.
-    * Assigning vulnerabilities to specific users for resolution and tracking their progress.
-    * Classification of vulnerabilities with Tags according to their type (e.g., XSS, SQL Injection) or the affected technologies (e.g., PHP, Apache).
-    * Collaboration among team members by adding Comments under each vulnerability record.
-    * Monitoring all significant changes to a vulnerability (creation, status change, comment addition, etc.) with an Activity Log.
-* [\[GitHub Link\]](https://github.com/memreok/VulnTrack)
-
-**The Password Game**
-* *Short Description:* The main purpose of this project is to teach users the importance of creating strong and complex passwords through a fun scenario. In an age where traditional password methods can be insufficient, it aims to increase online security awareness by encouraging users to create creative and challenging passwords.
-* *Technologies Used:* PHP, MySQL
-* *Key Features:* You are expected to create a password by completing the in-game rules as quickly as possible. While aiming to provide users with an enjoyable experience, it also strives to instill an awareness of password security.
-* [\[GitHub Link\]](https://github.com/memreok/ThePasswordGame)
-
----
-
-###  Contact Me
-
-* **LinkedIn:** [\[LinkedIn Mehmet Emre Ök\]](https://linkedin.com/in/mehmet-emre-%C3%B6k-a6433620a)
-* **E-mail:** mehmetemreok.contact@gmail.com
-
----
