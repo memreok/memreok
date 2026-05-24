@@ -168,7 +168,7 @@ Ayrıca zafiyet tasarımını, sömürü akışını ve güvenli kodlama pratikl
 ## İletişim
 
 <p>
-  <a href="https://www.linkedin.com/in/mehmet-emre-%C3%B6k-a6433620a/">
+  <a href="https://www.linkedin.com/in/mehmetemreok/">
     <img src="https://img.shields.io/badge/LinkedIn-Mehmet%20Emre%20ÖK-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <br>
